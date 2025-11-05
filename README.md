@@ -1,51 +1,52 @@
 # ⚡ PROOQ S.A.
 
-**Soluciones tecnológicas, infraestructura inteligente y automatización.**  
-Creemos en la integración entre innovación, ingeniería y tecnología aplicada para transformar la manera en que las empresas operan y se conectan.
+**Smart Infrastructure · Technology Integration · Automation**
+
+We combine innovation, engineering, and applied technology to transform the way businesses operate and connect.
 
 ---
 
-## 🧩 ¿Quiénes somos?
+## 🧩 About Us
 
-**PROOQ S.A.** es una empresa panameña especializada en:
+**PROOQ S.A.** is a Panamanian technology company specialized in:
 
-- 🖥️ **Cableado estructurado** y diseño de infraestructura de red  
-- 🎥 **Sistemas de CCTV y seguridad inteligente**  
-- ⚙️ **Automatización residencial y comercial**  
-- 🌐 **Integración de IoT y control industrial**  
-- 🧠 **Soluciones digitales**: servidores, VPS, plataformas y flujos automatizados  
+- 🖥️ **Structured Cabling** and network infrastructure design  
+- 🎥 **CCTV & Smart Security Systems**  
+- ⚙️ **Home and Commercial Automation**  
+- 🌐 **IoT and Industrial Control Integration**  
+- 🧠 **Digital Solutions**: Servers, VPS, Platforms & Automated Workflows  
 
-Trabajamos en proyectos locales e internacionales, combinando ingeniería, software y diseño para crear **soluciones que realmente funcionan**.
-
----
-
-## 💡 Nuestra misión
-
-> “Integrar tecnología y experiencia humana para construir sistemas más eficientes, seguros y conectados.”
+We work on both local and international projects, blending engineering, software, and design to deliver **real, working solutions.**
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 💡 Our Mission
 
-| Categoría | Tecnologías principales |
-|------------|--------------------------|
-| **Infraestructura** | Ubuntu Server · Docker · Nginx · MySQL · TrueNAS |
-| **Automatización** | n8n · Node.js · Python · API REST |
-| **Plataformas** | Nextcloud · Piwigo · Immich · WordPress |
-| **Redes y control** | CCTV · IoT · KNX · Domótica |
-| **Diseño & Media** | Elementor · CapCut · Illustrator · Photoshop |
+> “To integrate technology and human expertise to build smarter, safer, and more connected systems.”
 
 ---
 
-## 🌍 Conectemos
+## 🛠️ Technologies & Tools
 
-📍 Panamá  
-📧 contacto@prooq.com  
+| Category | Core Technologies |
+|-----------|------------------|
+| **Infrastructure** | Ubuntu Server · Docker · Nginx · MySQL · TrueNAS |
+| **Automation** | n8n · Node.js · Python · REST APIs |
+| **Platforms** | Nextcloud · Piwigo · Immich · WordPress |
+| **Networks & Control** | CCTV · IoT · KNX · Home Automation |
+| **Design & Media** | Elementor · CapCut · Illustrator · Photoshop |
+
+---
+
+## 🌍 Connect with Us
+
+📍 **Panama**  
+📧 **infot@prooq.com**  
 🌐 [www.prooq.com](https://www.prooq.com)  
-💬 [WhatsApp](https://wa.me/50767602368)  
-🔗 GitHub · [@prooq-tech](#)  
+💬 [WhatsApp](https://wa.me/50762082617)  
+🔗 GitHub · [@prooq](#)
 
 ---
 
-> 🧠 *“La tecnología no es el futuro, es el presente bien ejecutado.”*  
-> — Equipo PROOQ ⚙️
+> 🧠 *“Technology isn’t the future — it’s the present, done right.”*  
+> — **The PROOQ Team** ⚙️
